@@ -20,4 +20,8 @@ The developed software enables TCR calculations based on two different models:
 2. **Homogeneous alloy model**.
 
 ## Usage
-- Provide usage examples here.
+
+![image](https://github.com/user-attachments/assets/b7595dd8-da4a-4526-a41a-fb472137bc77)
+![image](https://github.com/user-attachments/assets/ebc6d10d-36e7-4b3e-a3fe-06a6d8f0a481)
+![image](https://github.com/user-attachments/assets/f483052a-af43-41cc-baab-ec8a369cfb3f)
+![image](https://github.com/user-attachments/assets/cedf91c3-32a5-4346-9462-4fd3f679b86f)

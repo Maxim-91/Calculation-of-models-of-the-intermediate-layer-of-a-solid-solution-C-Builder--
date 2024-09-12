@@ -12,8 +12,7 @@ The software utilizes the following model relationships for different cases:
 ## Geometrical Model
 The geometrical model of a two-layer film system with an intermediate alloy layer near the interface:
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/a2afe3ad-bae3-478f-86b5-e1179988db72)
 
 ## Software Features
 The developed software enables TCR calculations based on two different models:
